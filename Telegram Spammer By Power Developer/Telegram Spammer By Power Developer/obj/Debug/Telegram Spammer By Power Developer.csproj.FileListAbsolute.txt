@@ -1,0 +1,12 @@
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\bin\Debug\Telegram Spammer By Power Developer.exe.config
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\bin\Debug\Telegram Spammer By Power Developer.exe
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\bin\Debug\Telegram Spammer By Power Developer.pdb
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram Spammer By Power Developer.csprojAssemblyReference.cache
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram_Spammer_By_Power_Developer.frmMain.resources
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram_Spammer_By_Power_Developer.Properties.Resources.resources
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram Spammer By Power Developer.csproj.GenerateResource.cache
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram Spammer By Power Developer.csproj.CoreCompileInputs.cache
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram Spammer By Power Developer.exe
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram Spammer By Power Developer.pdb
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram_Spammer_By_Power_Developer.frmAboutME.resources
+C:\Users\Online Programmer\source\repos\Telegram Spammer By Power Developer\Telegram Spammer By Power Developer\obj\Debug\Telegram_Spammer_By_Power_Developer.frmSpammer.resources
